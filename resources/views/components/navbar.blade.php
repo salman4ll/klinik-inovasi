@@ -12,13 +12,13 @@
         <div class="collapse navbar-collapse justify-content-center pt-5" id="navbarNavDropdown">
             <ul class="navbar-nav">
                 <li class="nav-item">
-                    <a class="nav-link active" aria-current="page" href="#">Beranda</a>
+                    <a class="nav-link {{ $title == "Beranda" ? 'active' : '' }}" aria-current="page" href="/">Beranda</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#">Etalase Inovasi</a>
+                    <a class="nav-link {{ $title == "Galeri Inovasi" ? 'active' : '' }}" href="/galeri">Galeri Inovasi</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#">Berita</a>
+                    <a class="nav-link {{ $title == "Berita" ? 'active' : '' }}" href="/berita">Berita</a>
                 </li>
                 <li class="nav-item dropdown">
                     <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown"

@@ -145,6 +145,9 @@ body {
 .inovasi-unggulan {
     color: #009b1a;
 }
+.inovasi-pelayanan {
+    color: #009b1a;
+}
 
 .inovasi-card-title {
     font-size: 14px;
@@ -167,6 +170,10 @@ body {
     border-radius: 20px;
 }
 
+.card-daftar-inovasi {
+    border-radius: 10px;
+}
+
 .youtube-section {
     background-color: white;
 }
@@ -183,4 +190,10 @@ body {
 
 .input-background {
     background-color: rgba(0, 155, 26, 0.20);    
+}
+
+.gradient-hr {
+    border: none;
+    height: 10px;
+    background: linear-gradient(to right, #ffffff, #009B1A);
 }
