@@ -1,7 +1,7 @@
-<nav class="navbar navbar-expand-lg bg-body-tertiary px-5 pb-0">
+<nav class="navbar navbar-expand-lg bg-body-tertiary px-md-5 pb-md-0">
     <div class="container-fluid">
         <a class="navbar-brand" href="#">
-            <img src="{{ asset('assets/images/logo.png') }}" alt="logo" height="50">
+            <img src="{{ asset('assets/images/logo.png') }}" alt="logo" height="50" class="navbar-brand">
         </a>
         
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown"

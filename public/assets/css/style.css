@@ -1,6 +1,14 @@
+body {
+    font-family: "Roboto", sans-serif;
+    background-image: url("/assets/images/background.png");
+    background-size: cover; /* Ensures the image covers the entire element */
+    background-position: center center; /* Centers the image */
+    min-height: 100vh; /* Ensures the background covers the full height of the viewport */
+}
+
 .nav-link.active {
-    color: #009B1A !important;
-    border-bottom: 3px solid #009B1A;
+    color: #009b1a !important;
+    border-bottom: 3px solid #009b1a;
 }
 
 .carousel-control-prev,
@@ -12,7 +20,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    top: 50%;    
+    top: 50%;
     box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2); /* Tambahkan bayangan */
     transition: background-color 0.3s ease, transform 0.3s ease; /* Animasi hover */
 }
@@ -39,7 +47,6 @@
     filter: invert(0.4); /* Ubah warna icon menjadi sedikit abu */
 }
 
-
 .custom-caption {
     background-color: white;
     padding: 15px 20px;
@@ -54,9 +61,8 @@
     width: 50%;
 }
 
-
 .selengkapnya-btn {
-    background-color: #009B1A;
+    background-color: #009b1a;
     color: white;
     border: none;
     padding: 10px 20px;
@@ -72,11 +78,95 @@
 }
 
 .selengkapnya-btn:hover {
-    background-color: #007E13; /* Warna hijau lebih gelap saat hover */
+    background-color: #007e13; /* Warna hijau lebih gelap saat hover */
     cursor: pointer;
 }
 
 .etalase-inovasi {
-    background-color: #D9DFC9;
-    color: #009B1A;
+    color: #009b1a;
+}
+
+.btn-etalase {
+    background-color: #009b1a;
+    border-radius: 20px;
+    font-size: 20px;
+}
+
+.btn-etalase:hover {
+    background-color: #027613;
+}
+
+.btn-etalase:focus {
+    background-color: #027613;
+}
+
+@media (max-width: 768px) {
+    .navbar-brand {
+        height: 40px;
+    }
+    .card-berita {
+        border-radius: 10px;
+        width: 50%;
+    }
+}
+
+.card-berita {
+    border-radius: 10px;
+    width: 40%;
+}
+
+.rangkuman-berita {
+    background-color: white;
+    color: #009b1a;
+}
+
+.card-berita-utama {
+    background-color: #009b1a;
+    color: white;
+}
+
+.btn-detail-berita {
+    background-color: white;
+    color: #009b1a;
+    border-radius: 20px;
+    font-size: 12px;
+}
+
+.judul-berita {
+    font-size: 14px;
+    color: #222222;
+}
+
+.date {
+    color: #6c757d;
+    font-size: 10px;
+}
+
+.inovasi-unggulan {
+    color: #009b1a;
+}
+
+.inovasi-card-title {
+    font-size: 14px;
+    color: #1f272b;
+}
+
+.inovasi-card-text {
+    font-size: 12px;
+    color: #1f272b;
+}
+
+.btn-inovasi-selengkapnya {
+    background-color: #009b1a;
+    color: white;
+    border-radius: 20px;
+    font-size: 12px;
+}
+
+.card-inovasi {
+    border-radius: 20px;
+}
+
+.youtube-section {
+    background-color: white;
 }
