@@ -170,3 +170,17 @@ body {
 .youtube-section {
     background-color: white;
 }
+
+.card-contact {
+    border-radius: 20px;
+    background-color: rgba(0, 155, 26, 0.20);
+    color: #009B1A;
+}
+
+.judul-contact {
+    font-weight: bold;
+}
+
+.input-background {
+    background-color: rgba(0, 155, 26, 0.20);    
+}

@@ -19,6 +19,7 @@
     </header>
 
     @yield('content')
+    @include('components.contact')
 
     <footer class="mt-5 text-center">
         @include('components.footer')

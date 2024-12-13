@@ -193,6 +193,63 @@
                             </div>
                         </div>
                     </div>
+                    <div class="carousel-item">
+                        <div class="card-wrapper container-sm d-flex justify-content-around p-0">
+                            <div class="row w-100 gap-4">
+                                <div class="card card-inovasi col p-0">
+                                    <img src="{{ asset('assets/images/berita-utama.png') }}" class="card-img-top"
+                                        alt="..."
+                                        style="border-top-left-radius: 20px; border-top-right-radius: 20px">
+                                    <div class="card-body">
+                                        <p class="inovasi-card-title">DETAK (DESA TUNTAS ADMINISTRASI)</p>
+                                        <p class="inovasi-card-text mb-1">
+                                            Inovasi DETAK (Desa Tuntas Administrasi) adalah salah satu
+                                            Inovasi yang dibangun oleh Dinas Kependudukan dan
+                                            Pencatatan Sipil dengan tujuan untuk meningkatkan cakupan
+                                            kepemilikan dokumen kependudukan.
+                                        </p>
+                                        <button class="btn btn-inovasi-selengkapnya">
+                                            selengkapnya
+                                        </button>
+                                    </div>
+                                </div>
+                                <div class="card card-inovasi col p-0">
+                                    <img src="{{ asset('assets/images/berita-utama.png') }}" class="card-img-top"
+                                        alt="..."
+                                        style="border-top-left-radius: 20px; border-top-right-radius: 20px">
+                                    <div class="card-body">
+                                        <p class="inovasi-card-title">DETAK (DESA TUNTAS ADMINISTRASI)</p>
+                                        <p class="inovasi-card-text mb-1">
+                                            Inovasi DETAK (Desa Tuntas Administrasi) adalah salah satu
+                                            Inovasi yang dibangun oleh Dinas Kependudukan dan
+                                            Pencatatan Sipil dengan tujuan untuk meningkatkan cakupan
+                                            kepemilikan dokumen kependudukan.
+                                        </p>
+                                        <button class="btn btn-inovasi-selengkapnya">
+                                            selengkapnya
+                                        </button>
+                                    </div>
+                                </div>
+                                <div class="card card-inovasi col p-0">
+                                    <img src="{{ asset('assets/images/berita-utama.png') }}" class="card-img-top"
+                                        alt="..."
+                                        style="border-top-left-radius: 20px; border-top-right-radius: 20px">
+                                    <div class="card-body">
+                                        <p class="inovasi-card-title">DETAK (DESA TUNTAS ADMINISTRASI)</p>
+                                        <p class="inovasi-card-text mb-1">
+                                            Inovasi DETAK (Desa Tuntas Administrasi) adalah salah satu
+                                            Inovasi yang dibangun oleh Dinas Kependudukan dan
+                                            Pencatatan Sipil dengan tujuan untuk meningkatkan cakupan
+                                            kepemilikan dokumen kependudukan.
+                                        </p>
+                                        <button class="btn btn-inovasi-selengkapnya">
+                                            selengkapnya
+                                        </button>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
                     <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls"
                         data-bs-slide="prev">
                         <span class="carousel-control-prev-icon" aria-hidden="true"></span>
@@ -214,26 +271,28 @@
             <div id="carouselYoutubeSection" class="carousel carousel-dark slide p-0 mt-2" data-bs-ride="carousel">
                 <div class="carousel-inner p-0">
                     <div class="carousel-item active">
-                        <div class="row">
-                            <div class="col-3 mr-2">
-                                <iframe src="https://www.youtube.com/embed/xapuPZrQ-zk" frameborder="0" class="p-0"></iframe>
-                            </div>
-                            <div class="col-3">
-                                <iframe src="https://www.youtube.com/embed/xapuPZrQ-zk" frameborder="0" class="p-0"></iframe>
-                            </div>
-                            <div class="col-3">
-                                <iframe src="https://www.youtube.com/embed/xapuPZrQ-zk" frameborder="0" class="p-0"></iframe>
-                            </div>
-                            <div class="col-3">
-                                <iframe src="https://www.youtube.com/embed/xapuPZrQ-zk" frameborder="0" class="p-0"></iframe>
-                            </div>
-                        </div>                        
+                        <div class="gap-3 d-flex justify-content-center">
+                            <iframe src="https://www.youtube.com/embed/xapuPZrQ-zk" frameborder="0" class="p-0"
+                                style="width: 270px"></iframe>
+                            <iframe src="https://www.youtube.com/embed/xapuPZrQ-zk" frameborder="0" class="p-0"
+                                style="width: 270px"></iframe>
+                            <iframe src="https://www.youtube.com/embed/xapuPZrQ-zk" frameborder="0" class="p-0"
+                                style="width: 270px"></iframe>
+                            <iframe src="https://www.youtube.com/embed/xapuPZrQ-zk" frameborder="0" class="p-0"
+                                style="width: 270px"></iframe>
+                        </div>
                     </div>
                     <div class="carousel-item">
-                        <iframe src="https://www.youtube.com/embed/_JhLC29jeI4" frameborder="0" class="p-0"></iframe>
-                        <iframe src="https://www.youtube.com/embed/_JhLC29jeI4" frameborder="0" class="p-0"></iframe>
-                        <iframe src="https://www.youtube.com/embed/_JhLC29jeI4" frameborder="0" class="p-0"></iframe>
-                        <iframe src="https://www.youtube.com/embed/_JhLC29jeI4" frameborder="0" class="p-0"></iframe>
+                        <div class="gap-3 d-flex justify-content-center">
+                            <iframe src="https://www.youtube.com/embed/_JhLC29jeI4" frameborder="0" class="p-0"
+                                style="width: 270px"></iframe>
+                            <iframe src="https://www.youtube.com/embed/_JhLC29jeI4" frameborder="0" class="p-0"
+                                style="width: 270px"></iframe>
+                            <iframe src="https://www.youtube.com/embed/_JhLC29jeI4" frameborder="0" class="p-0"
+                                style="width: 270px"></iframe>
+                            <iframe src="https://www.youtube.com/embed/_JhLC29jeI4" frameborder="0" class="p-0"
+                                style="width: 270px"></iframe>
+                        </div>
                     </div>
                 </div>
                 <button class="carousel-control-prev" type="button" data-bs-target="#carouselYoutubeSection"
