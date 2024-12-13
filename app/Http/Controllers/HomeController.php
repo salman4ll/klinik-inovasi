@@ -12,4 +12,11 @@ class HomeController extends Controller
             'title' => 'Home',
         ]);
     }
+
+    public function berita()
+    {
+        return view('berita', [
+            'title' => 'Berita',
+        ]);
+    }
 }
