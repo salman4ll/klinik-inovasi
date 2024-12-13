@@ -9,7 +9,7 @@ class HomeController extends Controller
     public function index()
     {
         return view('index', [
-            'title' => 'Home',
+            'title' => 'Beranda',
         ]);
     }
 
@@ -17,6 +17,13 @@ class HomeController extends Controller
     {
         return view('berita', [
             'title' => 'Berita',
+        ]);
+    }
+
+    public function galeri()
+    {
+        return view('galeri', [
+            'title' => 'Galeri Inovasi',
         ]);
     }
 }
