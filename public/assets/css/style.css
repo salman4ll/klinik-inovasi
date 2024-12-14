@@ -150,8 +150,13 @@ body {
 }
 
 .inovasi-card-title {
-    font-size: 14px;
+    font-size: 16px;
     color: #1f272b;
+    text-decoration: none;
+}
+
+a.inovasi-card-title:hover {
+    text-decoration: underline;
 }
 
 .inovasi-card-text {
@@ -196,4 +201,18 @@ body {
     border: none;
     height: 10px;
     background: linear-gradient(to right, #ffffff, #009B1A);
+}
+
+.page-link.active{
+    background-color: #009b1a; 
+    border-color: #027613;   
+}
+
+.page-link {
+    color: #212121;
+}
+
+.footer-brand {
+    border-bottom: 3px solid #009b1a;
+    border-top: 3px solid #009b1a;
 }

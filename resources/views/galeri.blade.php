@@ -30,19 +30,19 @@
                 <img src="{{ asset('assets/images/icon-6.png') }}" alt="" style="width: 10%">
             </div>
             <div class="d-flex flex-row justify-content-center gap-5">
-                <img src="{{ asset('assets/images/icon-1.png') }}" alt="" style="width: 10%">
-                <img src="{{ asset('assets/images/icon-2.png') }}" alt="" style="width: 10%">
-                <img src="{{ asset('assets/images/icon-3.png') }}" alt="" style="width: 10%">
-                <img src="{{ asset('assets/images/icon-4.png') }}" alt="" style="width: 10%">
-                <img src="{{ asset('assets/images/icon-5.png') }}" alt="" style="width: 10%">
-                <img src="{{ asset('assets/images/icon-6.png') }}" alt="" style="width: 10%">
+                <img src="{{ asset('assets/images/icon-7.png') }}" alt="" style="width: 10%">
+                <img src="{{ asset('assets/images/icon-8.png') }}" alt="" style="width: 10%">
+                <img src="{{ asset('assets/images/icon-9.png') }}" alt="" style="width: 10%">
+                <img src="{{ asset('assets/images/icon-10.png') }}" alt="" style="width: 10%">
+                <img src="{{ asset('assets/images/icon-11.png') }}" alt="" style="width: 10%">
+                <img src="{{ asset('assets/images/icon-12.png') }}" alt="" style="width: 10%">
             </div>
             <div class="d-flex flex-row justify-content-center gap-5">
-                <img src="{{ asset('assets/images/icon-1.png') }}" alt="" style="width: 10%">
-                <img src="{{ asset('assets/images/icon-2.png') }}" alt="" style="width: 10%">
-                <img src="{{ asset('assets/images/icon-3.png') }}" alt="" style="width: 10%">
-                <img src="{{ asset('assets/images/icon-4.png') }}" alt="" style="width: 10%">
-                <img src="{{ asset('assets/images/icon-5.png') }}" alt="" style="width: 10%">
+                <img src="{{ asset('assets/images/icon-13.png') }}" alt="" style="width: 10%">
+                <img src="{{ asset('assets/images/icon-14.png') }}" alt="" style="width: 10%">
+                <img src="{{ asset('assets/images/icon-15.png') }}" alt="" style="width: 10%">
+                <img src="{{ asset('assets/images/icon-16.png') }}" alt="" style="width: 10%">
+                <img src="{{ asset('assets/images/icon-17.png') }}" alt="" style="width: 10%">
             </div>
         </div>
     </div>
@@ -122,7 +122,7 @@
         <div class="pl-2" style="width: 75%">
             <h4 class="text-start">Inovasi Pelayanan Publik</h4>
             <hr class="gradient-hr" style="width: 20%;">
-            <div id="carouselExampleControls" class="carousel carousel-dark slide p-0" data-bs-ride="carousel">
+            <div id="carouselPelayanan" class="carousel carousel-dark slide p-0" data-bs-ride="carousel">
                 <div class="carousel-inner p-0">
                     <div class="carousel-item active">
                         <div class="card-wrapper container-sm d-flex justify-content-around p-0">
@@ -132,7 +132,7 @@
                                         alt="..."
                                         style="border-top-left-radius: 20px; border-top-right-radius: 20px">
                                     <div class="card-body mb-3">
-                                        <p class="inovasi-card-title">Pelayanan Kekonsuleran Terpadu</p>
+                                        <a href="https://jippnas.menpan.go.id/inovasi/2917" class="inovasi-card-title">Pelayanan Kekonsuleran Terpadu</a>
                                         <div class="d-flex flex-row align-items-center gap-2">
                                             <svg width="11" height="13" viewBox="0 0 11 13" fill="none"
                                                 xmlns="http://www.w3.org/2000/svg">
@@ -147,11 +147,11 @@
                                     </div>
                                 </div>                                
                                 <div class="card card-inovasi col p-0">
-                                    <img src="{{ asset('assets/images/inovasi-pelayanan-1.png') }}" class="card-img-top"
+                                    <img src="{{ asset('assets/images/inovasi-pelayanan-2.png') }}" class="card-img-top"
                                         alt="..."
                                         style="border-top-left-radius: 20px; border-top-right-radius: 20px">
                                     <div class="card-body mb-3">
-                                        <p class="inovasi-card-title">Pelayanan Kekonsuleran Terpadu</p>
+                                        <a href="https://jippnas.menpan.go.id/inovasi/2917" class="inovasi-card-title">Rumah Kedelai Grobogan</a>
                                         <div class="d-flex flex-row align-items-center gap-2">
                                             <svg width="11" height="13" viewBox="0 0 11 13" fill="none"
                                                 xmlns="http://www.w3.org/2000/svg">
@@ -160,17 +160,17 @@
                                                     fill="#2A2A2A" />
                                             </svg>
                                             <p class="inovasi-card-text mb-1">
-                                                Dyah Lestari Asmarani
+                                                Dr. SUNANTO, S.ST., M.P
                                             </p>
                                         </div>
                                     </div>
                                 </div>                                
                                 <div class="card card-inovasi col p-0">
-                                    <img src="{{ asset('assets/images/inovasi-pelayanan-1.png') }}" class="card-img-top"
+                                    <img src="{{ asset('assets/images/inovasi-pelayanan-3.png') }}" class="card-img-top"
                                         alt="..."
                                         style="border-top-left-radius: 20px; border-top-right-radius: 20px">
                                     <div class="card-body mb-3">
-                                        <p class="inovasi-card-title">Pelayanan Kekonsuleran Terpadu</p>
+                                        <a href="https://jippnas.menpan.go.id/inovasi/2747" class="inovasi-card-title">Pelayanan Kekonsuleran Terpadu</a>
                                         <div class="d-flex flex-row align-items-center gap-2">
                                             <svg width="11" height="13" viewBox="0 0 11 13" fill="none"
                                                 xmlns="http://www.w3.org/2000/svg">
@@ -179,7 +179,7 @@
                                                     fill="#2A2A2A" />
                                             </svg>
                                             <p class="inovasi-card-text mb-1">
-                                                Dyah Lestari Asmarani
+                                                Haruman Wiranegara Cs.
                                             </p>
                                         </div>
                                     </div>
@@ -250,12 +250,12 @@
                             </div>
                         </div>
                     </div>                    
-                    <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls"
+                    <button class="carousel-control-prev" type="button" data-bs-target="#carouselPelayanan"
                         data-bs-slide="prev">
                         <span class="carousel-control-prev-icon" aria-hidden="true"></span>
                         <span class="visually-hidden">Previous</span>
                     </button>
-                    <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleControls"
+                    <button class="carousel-control-next" type="button" data-bs-target="#carouselPelayanan"
                         data-bs-slide="next">
                         <span class="carousel-control-next-icon" aria-hidden="true"></span>
                         <span class="visually-hidden">Next</span>
@@ -281,7 +281,7 @@
                 </p>
             </div>            
             <div class="col-3 bg-white p-5 d-flex flex-column justify-content-center align-items-center gap-2" style="border-radius:5px">
-                <img src="{{ asset('assets/images/skpd.png') }}" alt="" style="height: 50%">
+                <img src="{{ asset('assets/images/puskesmas.png') }}" alt="" style="height: 50%">
                 <p>
                     Puskesmas
                 </p>

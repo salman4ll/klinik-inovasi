@@ -21,9 +21,7 @@
     @yield('content')
     @include('components.contact')
 
-    <footer class="mt-5 text-center">
-        @include('components.footer')
-    </footer>
+    @include('components.footer')
 
     <!-- Bootstrap JS Bundle -->
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"
