@@ -24,10 +24,8 @@
         }
 
         .date {
-            font-size: 12px;
-            /* Atur ukuran font untuk teks deskripsi */
+            font-size: 12px;            
             color: #6c757d;
-            /* Opsional, tambahkan warna teks untuk menyesuaikan tampilan */
         }
 
         .bg-green-700 {
@@ -102,14 +100,14 @@
                 <hr>
                 <div class="card mb-4">
                     <div class="card-body">
-                        <a href="/" class="card-title">Telemedicine #SayDOC (Isu Utama negara dan Dunia)</a>
+                        <a href="https://jippnas.menpan.go.id/profile/berita/16" class="card-title">Telemedicine #SayDOC (Isu Utama negara dan Dunia)</a>
                         <p class="card-text">23 December 2023 | 03:12</p>
                     </div>
                 </div>
 
                 <div class="card mb-4">
                     <div class="card-body">
-                        <a href="/" class="card-title">Kementerian PANRB Akan Sertakan Anggaran Pelayanan Publik
+                        <a href="https://menpan.go.id/site/berita-terkini/kementerian-panrb-akan-serahkan-anugerah-pelayanan-publik-luncurkan-jippnas-dan-resmikan-12-mpp" class="card-title">Kementerian PANRB Akan Sertakan Anggaran Pelayanan Publik
                             Lunusudan JIPPNB,
                             dan Realisasi 12 MPP</a>
                         <p class="card-text date">22 November 2023 | 06:11</p>
@@ -118,7 +116,7 @@
 
                 <div class="card mb-4">
                     <div class="card-body">
-                        <a href="/" class="card-title">Pacu Reformasi Birokrasi Berdampak, Kementerian PANRB Lakukan
+                        <a href="https://jippnas.menpan.go.id/profile/berita/9" class="card-title">Pacu Reformasi Birokrasi Berdampak, Kementerian PANRB Lakukan
                             Pembinaan
                             Kepada Pelayanan Publik</a>
                         <p class="card-text date">15 November 2023 | 12:11</p>
@@ -127,7 +125,7 @@
 
                 <div class="card mb-4">
                     <div class="card-body">
-                        <a href="/" class="card-title">Optimalkan Layanan Publik untuk WNI, Kementerian PANRB Terjag
+                        <a href="https://menpan.go.id/site/berita-terkini/optimalkan-layanan-publik-untuk-wni-kementerian-panrb-tinjau-kbri-wellington" class="card-title">Optimalkan Layanan Publik untuk WNI, Kementerian PANRB Terjag
                             KBRI</a>
                         <p class="card-text date">09 November 2023 | 11:11</p>
                     </div>
@@ -267,101 +265,98 @@
                             <p class="m-0">
                                 <i>#umum</i>
                             </p>
-                            <a href="/" class="card-title">Telemedicine #SayDOC (Satu Layar Ngobrol dengan Dokter)</a>
+                            <a href="https://jippnas.menpan.go.id/profile/berita/16" class="card-title">Telemedicine #SayDOC (Satu Layar Ngobrol dengan Dokter)</a>
                             <p class="card-text date">09 November 2023 | 11:11</p>
                         </div>
                     </div>
                 </div>
                 <div class="col-md-3 col-sm-4 col-12">
                     <div class="card">
-                        <img src="{{ asset('assets/images/berita-utama.png') }}" class="card-img-top w-100 p-0"
+                        <img src="{{ asset('assets/images/berita-2.png') }}" class="card-img-top w-100 p-0"
                             alt="...">
                         <div class="card-body">
                             <p class="m-0">
                                 <i>#umum</i>
                             </p>
-                            <a href="/" class="card-title">Telemedicine #SayDOC (Satu Layar Ngobrol dengan Dokter)</a>
+                            <a href="https://menpan.go.id/site/berita-terkini/kementerian-panrb-akan-serahkan-anugerah-pelayanan-publik-luncurkan-jippnas-dan-resmikan-12-mpp" class="card-title">Kementerian PANRB Akan Serahkan Anugerah Pelayanan Publik, Luncurkan JIPPNas, dan Resmikan 12 MPP</a>
                             <p class="card-text date">09 November 2023 | 11:11</p>
                         </div>
                     </div>
                 </div>
                 <div class="col-md-3 col-sm-4 col-12">
                     <div class="card">
-                        <img src="{{ asset('assets/images/berita-utama.png') }}" class="card-img-top w-100 p-0"
+                        <img src="{{ asset('assets/images/berita-3.png') }}" class="card-img-top w-100 p-0"
                             alt="...">
                         <div class="card-body">
                             <p class="m-0">
                                 <i>#umum</i>
                             </p>
-                            <a href="/" class="card-title">Telemedicine #SayDOC (Satu Layar Ngobrol dengan Dokter)</a>
+                            <a href="https://jippnas.menpan.go.id/profile/berita/9" class="card-title">Pacu Reformasi Birokrasi Berdampak, Kementerian PANRB Lakukan Pembinaan Inovasi Pelayanan Publik</a>
                             <p class="card-text date">09 November 2023 | 11:11</p>
                         </div>
                     </div>
                 </div>
                 <div class="col-md-3 col-sm-4 col-12">
                     <div class="card">
-                        <img src="{{ asset('assets/images/berita-utama.png') }}" class="card-img-top w-100 p-0"
+                        <img src="{{ asset('assets/images/berita-4.png') }}" class="card-img-top w-100 p-0"
                             alt="...">
                         <div class="card-body">
                             <p class="m-0">
                                 <i>#umum</i>
                             </p>
-                            <a href="/" class="card-title">Telemedicine #SayDOC (Satu Layar Ngobrol dengan Dokter)</a>
+                            <a href="https://menpan.go.id/site/berita-terkini/optimalkan-layanan-publik-untuk-wni-kementerian-panrb-tinjau-kbri-wellington" class="card-title">Optimalkan Layanan Publik untuk WNI, Kementerian PANRB Tinjau KBRI Wellington</a>
                             <p class="card-text date">09 November 2023 | 11:11</p>
                         </div>
                     </div>
                 </div>
                 <div class="col-md-3 col-sm-4 col-12">
                     <div class="card">
-                        <img src="{{ asset('assets/images/berita-utama.png') }}" class="card-img-top w-100 p-0"
+                        <img src="{{ asset('assets/images/berita-5.png') }}" class="card-img-top w-100 p-0"
                             alt="...">
                         <div class="card-body">
                             <p class="m-0">
                                 <i>#umum</i>
                             </p>
-                            <a href="/" class="card-title">Telemedicine #SayDOC (Satu Layar Ngobrol dengan Dokter)</a>
+                            <a href="https://jippnas.menpan.go.id/profile/berita/7" class="card-title">Anugerah Layanan Investasi 2023</a>
                             <p class="card-text date">09 November 2023 | 11:11</p>
                         </div>
                     </div>
                 </div>
                 <div class="col-md-3 col-sm-4 col-12">
                     <div class="card">
-                        <img src="{{ asset('assets/images/berita-utama.png') }}" class="card-img-top w-100 p-0"
+                        <img src="{{ asset('assets/images/berita-6.png') }}" class="card-img-top w-100 p-0"
                             alt="...">
                         <div class="card-body">
                             <p class="m-0">
                                 <i>#umum</i>
                             </p>
-                            <a href="/" class="card-title">Telemedicine #SayDOC (Satu Layar Ngobrol dengan
-                                Dokter)</a>
+                            <a href="https://jippnas.menpan.go.id/profile/berita/6" class="card-title">Rapat Penataan Organisasi Lembaga Administrasi Negara</a>
                             <p class="card-text date">09 November 2023 | 11:11</p>
                         </div>
                     </div>
                 </div>
                 <div class="col-md-3 col-sm-4 col-12">
                     <div class="card">
-                        <img src="{{ asset('assets/images/berita-utama.png') }}" class="card-img-top w-100 p-0"
+                        <img src="{{ asset('assets/images/berita-7.png') }}" class="card-img-top w-100 p-0"
                             alt="...">
                         <div class="card-body">
                             <p class="m-0">
                                 <i>#umum</i>
                             </p>
-                            <a href="/" class="card-title">Telemedicine #SayDOC (Satu Layar Ngobrol dengan
-                                Dokter)</a>
+                            <a href="https://jippnas.menpan.go.id/profile/berita/5" class="card-title">Rapat Penetapan Rancangan Perpres Kementerian Hukum dan HAM</a>
                             <p class="card-text date">09 November 2023 | 11:11</p>
                         </div>
                     </div>
                 </div>
                 <div class="col-md-3 col-sm-4 col-12">
                     <div class="card">
-                        <img src="{{ asset('assets/images/berita-utama.png') }}" class="card-img-top w-100 p-0"
+                        <img src="{{ asset('assets/images/berita-8.png') }}" class="card-img-top w-100 p-0"
                             alt="...">
                         <div class="card-body">
                             <p class="m-0">
                                 <i>#umum</i>
                             </p>
-                            <a href="/" class="card-title">Telemedicine #SayDOC (Satu Layar Ngobrol dengan
-                                Dokter)</a>
+                            <a href="https://jippnas.menpan.go.id/profile/berita/4" class="card-title">Lepas Ekspor Tuna dan Pemberian Bantuan untuk Nelayan Biak Numfor</a>
                             <p class="card-text date">09 November 2023 | 11:11</p>
                         </div>
                     </div>

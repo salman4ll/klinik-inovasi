@@ -52,13 +52,13 @@
                         Jelajahi
                     </h6>
                     <p>
-                        <a href="#" class="text-reset">Beranda</a>
+                        <a href="/" class="text-reset">Beranda</a>
                     </p>
                     <p>
-                        <a href="#" class="text-reset">Galeri Inovasi</a>
+                        <a href="/galeri" class="text-reset">Galeri Inovasi</a>
                     </p>
                     <p>
-                        <a href="#" class="text-reset">Berita</a>
+                        <a href="/berita" class="text-reset">Berita</a>
                     </p>
                 </div>
                 <div class="col-md-3 col-lg-2 col-xl-2 mx-auto mb-md-0 mb-4">
