@@ -109,7 +109,7 @@
                     </div>
                 </div>
                 <div class="d-flex flex-row gap-3 align-items-center">
-                    <img src="{{ asset('assets/images/berita-utama.png') }}" alt="" class="card-berita">
+                    <img src="{{ asset('assets/images/berita-4.png') }}" alt="" class="card-berita">
                     <div class="d-flex flex-column">
                         <p class="mb-0"><i>##untuk anda</i></p>
                         <p class="mb-1 judul-berita">
@@ -157,16 +157,16 @@
                                     </div>
                                 </div>
                                 <div class="card card-inovasi col p-0">
-                                    <img src="{{ asset('assets/images/berita-utama.png') }}" class="card-img-top"
+                                    <img src="{{ asset('assets/images/inovasi-pelayanan-1.png') }}" class="card-img-top"
                                         alt="..."
                                         style="border-top-left-radius: 20px; border-top-right-radius: 20px">
                                     <div class="card-body">
-                                        <p class="inovasi-card-title">DETAK (DESA TUNTAS ADMINISTRASI)</p>
+                                        <p class="inovasi-card-title">Pelayanan Kekonsuleran Terpadu (PANDU)</p>
                                         <p class="inovasi-card-text mb-1">
-                                            Inovasi DETAK (Desa Tuntas Administrasi) adalah salah satu
-                                            Inovasi yang dibangun oleh Dinas Kependudukan dan
-                                            Pencatatan Sipil dengan tujuan untuk meningkatkan cakupan
-                                            kepemilikan dokumen kependudukan.
+                                            Dalam melaksanakan tugas pelayanan publik, tantangan
+                                            utama yang ditemui KJRI Toronto pada tahun 2020 meliputi
+                                            keterbatasan waktu pengguna layanan karena bekerja/kuliah,
+                                            mobilitas, dan kondisi pandemi COVID-19. Untuk menjawab
                                         </p>
                                         <button class="btn btn-inovasi-selengkapnya">
                                             selengkapnya
@@ -174,16 +174,16 @@
                                     </div>
                                 </div>
                                 <div class="card card-inovasi col p-0">
-                                    <img src="{{ asset('assets/images/berita-utama.png') }}" class="card-img-top"
+                                    <img src="{{ asset('assets/images/inovasi-pelayanan-2.png') }}" class="card-img-top"
                                         alt="..."
                                         style="border-top-left-radius: 20px; border-top-right-radius: 20px">
                                     <div class="card-body">
-                                        <p class="inovasi-card-title">DETAK (DESA TUNTAS ADMINISTRASI)</p>
+                                        <p class="inovasi-card-title">Rumah Kedelai Grobogan</p>
                                         <p class="inovasi-card-text mb-1">
-                                            Inovasi DETAK (Desa Tuntas Administrasi) adalah salah satu
-                                            Inovasi yang dibangun oleh Dinas Kependudukan dan
-                                            Pencatatan Sipil dengan tujuan untuk meningkatkan cakupan
-                                            kepemilikan dokumen kependudukan.
+                                            Saat ini hampir semua produk olahan kedelai yang beredar di
+                                            pasaran berbahan baku kedelai impor transgenik atau
+                                            Geneticaly Modified Organism (GMO), termasuk tempe.
+                                            Sangat disayangkan, makanan khas Indonesia warisan nenek
                                         </p>
                                         <button class="btn btn-inovasi-selengkapnya">
                                             selengkapnya
@@ -274,23 +274,23 @@
                         <div class="gap-3 d-flex justify-content-center">
                             <iframe src="https://www.youtube.com/embed/xapuPZrQ-zk" frameborder="0" class="p-0"
                                 style="width: 270px"></iframe>
-                            <iframe src="https://www.youtube.com/embed/xapuPZrQ-zk" frameborder="0" class="p-0"
+                            <iframe src="https://www.youtube.com/embed/kUglD5IW5BM" frameborder="0" class="p-0"
                                 style="width: 270px"></iframe>
-                            <iframe src="https://www.youtube.com/embed/xapuPZrQ-zk" frameborder="0" class="p-0"
+                            <iframe src="https://www.youtube.com/embed/jtAGjztulGM" frameborder="0" class="p-0"
                                 style="width: 270px"></iframe>
-                            <iframe src="https://www.youtube.com/embed/xapuPZrQ-zk" frameborder="0" class="p-0"
+                            <iframe src="https://www.youtube.com/embed/4YAIAaShCt0" frameborder="0" class="p-0"
                                 style="width: 270px"></iframe>
                         </div>
                     </div>
                     <div class="carousel-item">
                         <div class="gap-3 d-flex justify-content-center">
-                            <iframe src="https://www.youtube.com/embed/_JhLC29jeI4" frameborder="0" class="p-0"
+                            <iframe src="https://www.youtube.com/embed/Wl8S9IuNSyg" frameborder="0" class="p-0"
                                 style="width: 270px"></iframe>
-                            <iframe src="https://www.youtube.com/embed/_JhLC29jeI4" frameborder="0" class="p-0"
+                            <iframe src="https://www.youtube.com/embed/fSwgfOV1RCs" frameborder="0" class="p-0"
                                 style="width: 270px"></iframe>
-                            <iframe src="https://www.youtube.com/embed/_JhLC29jeI4" frameborder="0" class="p-0"
+                            <iframe src="https://www.youtube.com/embed/5FiC1P3YzZ8" frameborder="0" class="p-0"
                                 style="width: 270px"></iframe>
-                            <iframe src="https://www.youtube.com/embed/_JhLC29jeI4" frameborder="0" class="p-0"
+                            <iframe src="https://www.youtube.com/embed/2XoVEQzjrfg" frameborder="0" class="p-0"
                                 style="width: 270px"></iframe>
                         </div>
                     </div>
